@@ -1,5 +1,4 @@
-### Sample App ###
-#### Dummy Documentation #####
+#### Geeting Started #####
 
 ---
 
@@ -36,5 +35,4 @@ rest.sendRequest('students/admission')
 rest.getRequest('students/admission')
 ```
 
-[Get Started Here](/assets/markdown/getting-started.md)
 
